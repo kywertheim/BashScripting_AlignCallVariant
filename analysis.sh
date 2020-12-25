@@ -1,3 +1,6 @@
+#Download the archive.
+wget https://d396qusza40orc.cloudfront.net/gencommand/gencommand_proj3_data.tar.gz
+
 #Extract the files from the archive.
 tar -xf gencommand_proj3_data.tar.gz
 
